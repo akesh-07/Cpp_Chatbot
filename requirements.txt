@@ -1,0 +1,15 @@
+# Web Frameworks
+streamlit
+fastapi
+uvicorn
+
+# LangChain & LangGraph
+langchain
+langgraph
+langchain_core
+langchain_google_genai
+
+# Utilities
+python-dotenv
+requests
+docker
